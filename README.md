@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Sunny.lee2014@gmail.com
 - 😄 Pronouns: ... He/him/his
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... I served in the military for 8 years and was deployed once to Iraq
 -->
