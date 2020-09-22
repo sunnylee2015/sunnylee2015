@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Front End
 - 🌱 I’m currently learning ... React
-- 👯 I’m looking to collaborate on ... React
+- 👯 I’m looking to collaborate on ... JavaScript/React
 - 🤔 I’m looking for help with ... React
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Sunny.lee2014@gmail.com
